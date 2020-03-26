@@ -20,6 +20,16 @@
     --width-card-medium: 460px;
     --width-card-wide: 800px;
     --width-content: 1080px;
+    
+    --color-brand: #1985a1;
+    --color-success: #368559;
+    --color-success-accent: #36855933;
+    --color-notify: #74c4db;
+    --color-notify-accent: #74c4db33;
+    --color-warning: #ddb950;
+    --color-warning-accent: #ddb95033;
+    --color-alert: #ca3461;
+    --color-alert-accent: #ca346133;
 }
 
 @media (prefers-color-scheme: dark) {
