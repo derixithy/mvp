@@ -3,14 +3,15 @@
 :root {
     --border-radius: 5px;
     --box-shadow: 2px 2px 10px;
-    --color-success: #368559;
-    --color-success-accent: #36855933;
-    --color-notify: #74c4db;
-    --color-notify-accent: #74c4db33;
-    --color-warning: #ddb950;
-    --color-warning-accent: #ddb95033;
-    --color-alert: #ca3461;
-    --color-alert-accent: #ca346133;
+    --color: #1985a1;
+    --color-accent: #d6e7eb;
+    --color-bg: #f8f8f8;
+    --color-bg-secondary: #eaeaea;
+    --color-secondary: #535353;
+    --color-secondary-accent: #f0eeee;
+    --color-shadow: #f4f4f4;
+    --color-text: #535353;
+    --color-text-secondary: #959393;
     --hover-brightness: 1.2;
     --justify-important: center;
     --justify-normal: left;
