@@ -221,7 +221,7 @@ button {
     font-size: medium;
     font-weight: bold;
     margin: 1.5rem 0 0.5rem 0;
-    padding: 1rem 2rem;
+    padding: 0.6rem 2rem;
 }
 
 button:hover {
